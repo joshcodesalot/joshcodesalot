@@ -4,16 +4,16 @@ I am a passionate full-stack developer with 5 years of experience in developing 
 When I'm not coding, you can find me playing League of Legends, where I constantly work to improve my skills and maintain a competitive edge.
 
 ### 🔧 Skills & Expertise
-Front-end development: HTML, CSS, JavaScript, React
-Back-end development: Node.js, Express, MongoDB, MySQL
-DevOps: AWS, Docker, Jenkins, Git
+Front-end development: HTML, CSS, JavaScript, React<br/>
+Back-end development: Node.js, Express, MongoDB, MySQL<br/>
+DevOps: AWS, Docker, Jenkins, Git<br/>
 
 ### 🏆 Achievements
-Help develop and launch an e-commerce website that increased sales by 30%
-Contributed to the development of an open-source library with over 1,000 stars on GitHub
-Participated in a hackathon and placed 2nd out of 50 teams
+Help develop and launch an e-commerce website that increased sales by 30%<br/>
+Contributed to the development of an open-source library with over 1,000 stars on GitHub<br/>
+Participated in a hackathon and placed 2nd out of 50 teams<br/>
 
 ### 🌐 Connect with Me
-LinkedIn: [Joshua Rivera](https://www.linkedin.com/in/joshcodesalot)
-Website: N/A
-Email: [jriveracodes@gmail.com](mailto:jriveracodes@gmail.com)
+LinkedIn: [Joshua Rivera](https://www.linkedin.com/in/joshcodesalot)<br/>
+Website: N/A<br/>
+Email: [jriveracodes@gmail.com](mailto:jriveracodes@gmail.com)<br/>
